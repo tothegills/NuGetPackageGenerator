@@ -1,8 +1,0 @@
-F:\Experiments\PackageGenerator\PackageGenerator\bin\Debug\PackageGenerator.exe.config
-F:\Experiments\PackageGenerator\PackageGenerator\bin\Debug\PackageGenerator.exe
-F:\Experiments\PackageGenerator\PackageGenerator\bin\Debug\PackageGenerator.pdb
-F:\Experiments\PackageGenerator\PackageGenerator\bin\Debug\Microsoft.Web.XmlTransform.dll
-F:\Experiments\PackageGenerator\PackageGenerator\bin\Debug\NuGet.Core.dll
-F:\Experiments\PackageGenerator\PackageGenerator\obj\Debug\PackageGenerator.csprojResolveAssemblyReference.cache
-F:\Experiments\PackageGenerator\PackageGenerator\obj\Debug\PackageGenerator.exe
-F:\Experiments\PackageGenerator\PackageGenerator\obj\Debug\PackageGenerator.pdb
